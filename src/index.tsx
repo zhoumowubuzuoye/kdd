@@ -1,8 +1,15 @@
+/*
+ * @Author: xiewenhao
+ * @Date: 2023-04-06 10:52:15
+ * @LastEditTime: 2023-04-06 14:10:53
+ * @Description:  
+ */
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import 'antd/dist/reset.css'
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
