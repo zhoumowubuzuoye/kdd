@@ -1,3 +1,9 @@
+/*
+ * @Author: xiewenhao
+ * @Date: 2023-04-06 10:52:15
+ * @LastEditTime: 2023-04-06 11:09:29
+ * @Description: 
+ */
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
@@ -8,7 +14,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          Edit <code>src/App.tsx</code> 1and save to reload.
         </p>
         <a
           className="App-link"
